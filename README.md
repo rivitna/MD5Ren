@@ -1,5 +1,5 @@
 # MD5Ren  
   
-**Renaming files by hash MD5**  
+**Fast renaming files in a directory tree by hash MD5**  
 
-Windows API, multithreaded application  
+Windows API, multithreading 
